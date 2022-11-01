@@ -1,0 +1,125 @@
+{
+    "last_updated": "Fri, 22 Apr 2022 15:25:27 GMT",
+    "routes": [
+        {
+            "file_path": "views/welcome/welcome_view.dart",
+            "route_name": "welcomeViewRoute",
+            "view_name": "WelcomeView"
+        },
+        {
+            "file_path": "views/pre_login/pre_login_view.dart",
+            "route_name": "pre_loginViewRoute",
+            "view_name": "PreLoginView"
+        },
+        {
+            "file_path": "views/login_screen/login_screen_view.dart",
+            "route_name": "login_screenViewRoute",
+            "view_name": "LoginScreenView"
+        },
+        {
+            "file_path": "views/post_login_screen/post_login_screen_view.dart",
+            "route_name": "post_login_screenViewRoute",
+            "view_name": "PostLoginScreenView"
+        },
+        {
+            "file_path": "views/time_zone_setting/time_zone_setting_view.dart",
+            "route_name": "time_zone_settingViewRoute",
+            "view_name": "TimeZoneSettingView"
+        },
+        {
+            "file_path": "views/home/home_view.dart",
+            "route_name": "homeViewRoute",
+            "view_name": "HomeView"
+        },
+        {
+            "file_path": "views/messages_screen/messages_screen_view.dart",
+            "route_name": "messages_screenViewRoute",
+            "view_name": "MessagesScreenView"
+        },
+        {
+            "file_path": "views/chatbox_screen/chatbox_screen_view.dart",
+            "route_name": "chatbox_screenViewRoute",
+            "view_name": "ChatboxScreenView"
+        },
+        {
+            "file_path": "views/search/search_view.dart",
+            "route_name": "searchViewRoute",
+            "view_name": "SearchView"
+        },
+        {
+            "file_path": "views/user_setting_screen/user_setting_screen_view.dart",
+            "route_name": "user_setting_screenViewRoute",
+            "view_name": "UserSettingScreenView"
+        },
+        {
+            "file_path": "views/search_results/search_results_view.dart",
+            "route_name": "search_resultsViewRoute",
+            "view_name": "SearchResultsView"
+        },
+        {
+            "file_path": "views/charter_details/charter_details_view.dart",
+            "route_name": "charter_detailsViewRoute",
+            "view_name": "CharterDetailsView"
+        },
+        {
+            "file_path": "views/booked_charters/booked_charters_view.dart",
+            "route_name": "booked_chartersViewRoute",
+            "view_name": "BookedCharterView"
+        },
+        {
+            "file_path": "views/booked_charter_detail/booked_charter_detail_view.dart",
+            "route_name": "booked_charter_detailViewRoute",
+            "view_name": "BookedCharterDetailView"
+        },
+        {
+            "file_path": "views/sent_request/sent_request_view.dart",
+            "route_name": "sent_requestViewRoute",
+            "view_name": "SentRequestView"
+        },
+        {
+            "file_path": "views/subscription_screen/subscription_screen_view.dart",
+            "route_name": "subscription_screenViewRoute",
+            "view_name": "SubscriptionScreenView"
+        },
+        {
+            "file_path": "views/credit_card_screen/credit_card_screen_view.dart",
+            "route_name": "credit_card_screenViewRoute",
+            "view_name": "CreditCardScreenView"
+        },
+        {
+            "file_path": "views/subscription_success_screen/subscription_success_screen_view.dart",
+            "route_name": "subscription_success_screenViewRoute",
+            "view_name": "SubscriptionSuccessScreenView"
+        },
+        {
+            "file_path": "views/feedback_screen/feedback_screen_view.dart",
+            "route_name": "feedback_screenViewRoute",
+            "view_name": "FeedbackScreenView"
+        },
+        {
+            "file_path": "views/edit_subscription_screen/edit_subscription_screen_view.dart",
+            "route_name": "edit_subscription_screenViewRoute",
+            "view_name": "EditSubscriptionScreenView"
+        },
+        {
+            "file_path": "views/plane/plane_view.dart",
+            "route_name": "planeViewRoute",
+            "view_name": "PlaneView"
+        },
+        {
+            "file_path": "views/add_plane/add_plane_view.dart",
+            "route_name": "add_planeViewRoute",
+            "view_name": "AddPlaneView"
+        },
+        {
+            "file_path": "views/charter/charter_view.dart",
+            "route_name": "charterViewRoute",
+            "view_name": "CharterView"
+        },
+        {
+            "file_path": "views/charter_create/charter_create_view.dart",
+            "route_name": "charter_createViewRoute",
+            "view_name": "CharterCreateView"
+        }
+    ]
+}
